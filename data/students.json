@@ -1,0 +1,19 @@
+{
+  "students": [
+    { "id": 1, "name": "Palou",   "age": 20, "course": "Computer Science" },
+    { "id": 2, "name": "Bonak",  "age": 22, "course": "Information Technology" },
+    { "id": 3, "name": "Bisak",  "age": 23, "course": "Information Technology" },
+    { "id": 4, "name": "Pagpa",  "age": 19, "course": "Software Engineering" }
+  ],
+    "course": [
+    { "id": 1, "course": "Computer Science",  "description": "Computer science is the study of computers, programming, and how information is processed." },
+    { "id": 2, "course": "Information Technology", "description": "Information technology focuses on managing and deploying computer systems and networks." },
+    { "id": 3, "course": "Information Technology",  "description": "Information technology focuses on managing and deploying computer systems and networks." },
+    { "id": 4, "course": "Software Engineering", "description": "A software engineer designs, builds, tests, and maintains software applications and systems." }
+  ],
+  "instructors": [
+    { "id": 1, "name": "Robin Padilaa", "subject": "Data Science Fundamentals" },
+    { "id": 2, "name": "BongBong Marcopolo", "subject": "Data Science Fundamentals" },
+    { "id": 3, "name": "John Rey Silverio", "subject": "Modern JavaScript & Next.js Prerequisites" }
+  ]
+}
